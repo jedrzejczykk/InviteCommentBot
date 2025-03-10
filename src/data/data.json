@@ -9,6 +9,6 @@
     "firststart": false,
     "compatibilityfeaturedone": false,
     "whatsnew": "Fixed sharedfiles failing to load caused by dependency version mismatch. Fixed !comment calculating incorrect amount of bots needed when maxRequestAmount < accsAvailable and asking user to add empty list of accounts.",
-    "timesloggedin": 9,
-    "totallogintime": 44.5
+    "timesloggedin": 11,
+    "totallogintime": 46.31
 }
