@@ -6,7 +6,7 @@
     "requestCooldown": 1,
     "botaccountcooldown": 10,
     "maxRequests": 0,
-    "maxOwnerRequests": 500,
+    "maxOwnerRequests": 300,
     "randomizeAccounts": true,
     "unfriendtime": 31,
     "playinggames": ["ińvite_Int Comment Bot",730, 440, 730, 440, 1962663, 1172470, 359550, 578080, 1238810, 
