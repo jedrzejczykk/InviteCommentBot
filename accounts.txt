@@ -1,4 +1,4 @@
-//Comment: Provide login information in the form of username:password. Read instructions here: https://github.com/3urobeat/steam-comment-service-bot/blob/master/docs/wiki/setup_guide.md#accounts
+// Comment: Provide login information in the form of username:password. Read instructions here: https://github.com/3urobeat/steam-comment-service-bot/blob/master/docs/wiki/setup_guide.md#accounts
 invitegaming1:InviteGaming123.
 invitegaming2:InviteGaming111.
 invitegaming3:InviteGaming1445
