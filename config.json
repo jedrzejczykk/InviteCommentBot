@@ -4,7 +4,7 @@
     "requestDelay": 173000,
     "skipSteamGuard": false,
     "requestCooldown": 1,
-    "botaccountcooldown": 10,
+    "botaccountcooldown": 1,
     "maxRequests": 0,
     "maxOwnerRequests": 500,
     "randomizeAccounts": false,
