@@ -6,7 +6,7 @@
     "requestCooldown": 1,
     "botaccountcooldown": 1,
     "maxRequests": 0,
-    "maxOwnerRequests": 500,
+    "maxOwnerRequests": 333,
     "randomizeAccounts": false,
     "unfriendtime": 31,
     "playinggames": [
